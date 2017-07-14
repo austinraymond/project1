@@ -1,0 +1,380 @@
+#HTML_1 {
+    height: 919px;
+    text-align: center;
+    width: 1365px;
+    perspective-origin: 682.5px 459.5px;
+    transform-origin: 682.5px 459.5px;
+    font: normal normal normal normal 16px / normal "Times New Roman";
+}/*#HTML_1*/
+
+#HEAD_2, #META_3, #TITLE_5 {
+    text-align: left;
+    font: normal normal normal normal 16px / normal "Times New Roman";
+    margin: 0px auto;
+}/*#HEAD_2, #META_3, #TITLE_5*/
+
+#LINK_4 {
+    text-align: left;
+    font: normal normal normal normal 16px / normal "Times New Roman";
+    margin: 0px auto;
+}/*#LINK_4*/
+
+#BODY_6 {
+    color: rgb(6, 28, 55);
+    height: 919px;
+    text-align: center;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 1365px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 682.5px 459.5px;
+    transform-origin: 682.5px 459.5px;
+    caret-color: rgb(6, 28, 55);
+    background: rgb(30, 66, 151) none repeat-x scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: rgb(6, 28, 55) none 0px;
+   }/*#BODY_6*/
+
+#DIV_7 {
+    bottom: 0px;
+    color: rgb(6, 28, 55);
+    height: 919px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    top: 0px;
+    width: 940px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 470px 459.5px;
+    transform-origin: 470px 459.5px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    margin: 0px 212.5px;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#DIV_7*/
+
+#DIV_8 {
+    color: rgb(6, 28, 55);
+    height: 402px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 900px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 450px 201px;
+    transform-origin: 450px 201px;
+    caret-color: rgb(6, 28, 55);
+    background: rgba(0, 0, 0, 0) url("http://www.html.am/templates/downloads/bryantsmith/nightbeach/images/main.jpg") no-repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    margin: 0px 20px;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#DIV_8*/
+
+#H1_9 {
+    bottom: 785px;
+    color: rgb(255, 255, 255);
+    height: 34px;
+    left: 550px;
+    position: absolute;
+    right: 223.313px;
+    text-align: right;
+    text-decoration: none solid rgb(255, 255, 255);
+    top: 100px;
+    width: 166.688px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 83.3438px 17px;
+    transform-origin: 83.3438px 17px;
+    caret-color: rgb(255, 255, 255);
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal bold normal 30px / normal Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#H1_9*/
+
+#SPAN_10 {
+    color: rgb(177, 198, 252);
+    text-align: left;
+    text-decoration: none solid rgb(177, 198, 252);
+    column-rule-color: rgb(177, 198, 252);
+    caret-color: rgb(177, 198, 252);
+    border: 0px none rgb(177, 198, 252);
+    font: normal normal bold normal 30px / normal Arial, Helvetica, sans-serif;
+    margin: 0px auto;
+    outline: rgb(177, 198, 252) none 0px;
+}/*#SPAN_10*/
+
+#H2_11 {
+    bottom: 766px;
+    color: rgb(225, 231, 247);
+    height: 23px;
+    left: 550px;
+    position: absolute;
+    right: 135.359px;
+    text-align: right;
+    text-decoration: none solid rgb(225, 231, 247);
+    top: 130px;
+    width: 254.641px;
+    column-rule-color: rgb(225, 231, 247);
+    perspective-origin: 127.313px 11.5px;
+    transform-origin: 127.313px 11.5px;
+    caret-color: rgb(225, 231, 247);
+    border: 0px none rgb(225, 231, 247);
+    font: normal normal bold normal 19.5px / normal Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: rgb(225, 231, 247) none 0px;
+}/*#H2_11*/
+
+#DIV_12 {
+    clear: both;
+    color: rgb(6, 28, 55);
+    float: left;
+    height: 69px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 940px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 470px 34.5px;
+    transform-origin: 470px 34.5px;
+    caret-color: rgb(6, 28, 55);
+    background: rgba(0, 0, 0, 0) url("http://www.html.am/templates/downloads/bryantsmith/nightbeach/images/menu.png") no-repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#DIV_12*/
+
+#UL_13 {
+    color: rgb(6, 28, 55);
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 900px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 450px 0px;
+    transform-origin: 450px 0px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    list-style: none outside none;
+    margin: 0px 20px;
+    outline: rgb(6, 28, 55) none 0px;
+    padding: 0px;
+}/*#UL_13*/
+
+#LI_14, #LI_16, #LI_18, #LI_20, #LI_22, #LI_24 {
+    color: rgb(6, 28, 55);
+    display: inline;
+    height: auto;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: auto;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    list-style: none outside none;
+    margin: 0px auto;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#LI_14, #LI_16, #LI_18, #LI_20, #LI_22, #LI_24*/
+
+#A_15, #A_17, #A_21, #A_25 {
+    color: rgb(255, 255, 255);
+    display: block;
+    float: left;
+    height: 40px;
+    text-align: center;
+    text-decoration: none solid rgb(255, 255, 255);
+    width: 150px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 75px 28.5px;
+    transform-origin: 75px 28.5px;
+    caret-color: rgb(255, 255, 255);
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal bold normal 15px / normal Arial, Helvetica, sans-serif;
+    list-style: none outside none;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 17px 0px 0px;
+}/*#A_15, #A_17, #A_21, #A_25*/
+
+#A_19, #A_23 {
+    color: rgb(255, 255, 255);
+    display: block;
+    float: left;
+    height: 40px;
+    text-align: center;
+    text-decoration: none solid rgb(255, 255, 255);
+    width: 150px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 75px 28.5px;
+    transform-origin: 75px 28.5px;
+    caret-color: rgb(255, 255, 255);
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal bold normal 15px / normal Arial, Helvetica, sans-serif;
+    list-style: none outside none;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 17px 0px 0px;
+}/*#A_19, #A_23*/
+
+#DIV_26 {
+    color: rgb(6, 28, 55);
+    height: 512px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 880px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 450px 258.5px;
+    transform-origin: 450px 258.5px;
+    caret-color: rgb(6, 28, 55);
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    margin: 0px 20px;
+    outline: rgb(6, 28, 55) none 0px;
+    padding: 0px 10px 5px;
+}/*#DIV_26*/
+
+#H2_27 {
+    color: rgb(6, 28, 55);
+    height: 115px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 880px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 440px 57.5px;
+    transform-origin: 440px 57.5px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal bold normal 19.5px / normal Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#H2_27*/
+
+#P_28, #P_29, #P_32, #P_35, #P_38, #P_41, #P_43 {
+    color: rgb(6, 28, 55);
+    height: 15px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 880px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 440px 7.5px;
+    transform-origin: 440px 7.5px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#P_28, #P_29, #P_32, #P_35, #P_38, #P_41, #P_43*/
+
+#H3_30, #H3_33, #H3_36, #H3_39 {
+    color: rgb(6, 28, 55);
+    height: 17px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 880px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 440px 8.5px;
+    transform-origin: 440px 8.5px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal bold normal 15.21px / normal Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#H3_30, #H3_33, #H3_36, #H3_39*/
+
+#P_31, #P_37 {
+    color: rgb(6, 28, 55);
+    height: 60px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 880px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 440px 30px;
+    transform-origin: 440px 30px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#P_31, #P_37*/
+
+#P_34, #P_40 {
+    color: rgb(6, 28, 55);
+    height: 30px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 880px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 440px 15px;
+    transform-origin: 440px 15px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#P_34, #P_40*/
+
+#P_42, #P_44 {
+    color: rgb(6, 28, 55);
+    height: 15px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 880px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 440px 7.5px;
+    transform-origin: 440px 7.5px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#P_42, #P_44*/
+
+#DIV_45 {
+    color: rgb(6, 28, 55);
+    height: 14px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 880px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 440px 7px;
+    transform-origin: 440px 7px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal normal normal 13px / normal Arial, Helvetica, sans-serif;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#DIV_45*/
+
+#H3_46 {
+    color: rgb(6, 28, 55);
+    height: 14px;
+    text-align: left;
+    text-decoration: none solid rgb(6, 28, 55);
+    width: 880px;
+    column-rule-color: rgb(6, 28, 55);
+    perspective-origin: 440px 7px;
+    transform-origin: 440px 7px;
+    caret-color: rgb(6, 28, 55);
+    border: 0px none rgb(6, 28, 55);
+    font: normal normal bold normal 15.21px / normal Arial, Helvetica, sans-serif;
+    margin: 0px;
+    outline: rgb(6, 28, 55) none 0px;
+}/*#H3_46*/
+
+#A_47 {
+    color: rgb(113, 152, 225);
+    text-align: center;
+    text-decoration: none solid rgb(113, 152, 225);
+    column-rule-color: rgb(113, 152, 225);
+    caret-color: rgb(113, 152, 225);
+    border: 0px none rgb(113, 152, 225);
+    font: normal normal bold normal 12px / normal Arial, Helvetica, sans-serif;
+    margin: 0px auto;
+    outline: rgb(113, 152, 225) none 0px;
+}/*#A_47*/
+
+body {
+	background-color: rgb(3, 83, 183);
+}
